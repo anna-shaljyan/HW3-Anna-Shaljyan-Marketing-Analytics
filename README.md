@@ -22,6 +22,7 @@
 - churn: churned (Yes/No)
 
 ## <font color="blue">1. Parametric Models</font>
+## <h1 style="color:purple;">1. Parametric Models</h1>
 
 - Build ATF models with all the available distributions
 - Compare the models
