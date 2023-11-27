@@ -21,9 +21,9 @@
 - custcat: customer category
 - churn: churned (Yes/No)
 
-## ``` diff
+``` diff
 - 1. Parametric Models
-    ```
+```
 - Build ATF models with all the available distributions
 - Compare the models
 - Visualize all the curves: one plot for all
