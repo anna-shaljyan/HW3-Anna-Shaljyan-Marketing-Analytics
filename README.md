@@ -32,13 +32,15 @@ comparisons)
 - Keep significant features
 - Keep the final model
 
-## 2. <span style="color:red;">CLV</span>
-
+``` diff
+! 2. CLV
+```
 - Calculate CLV per customer based on the final model; you can use the same logic provided in the slides.
 - Explore CLV within different segments.
 
-## 3. <span style="color:orange;">Report</span>
-
+``` diff
+! 3. Report
+```
 #### Write a short report (1-2 paragraphs) about your findings. The goal is to understand the factors affecting
 the churn risk.
 -  Interpret coefficients
