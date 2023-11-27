@@ -21,9 +21,9 @@
 - custcat: customer category
 - churn: churned (Yes/No)
 
-``` diff
+## ``` diff
 - 1. Parametric Models
-```
+    ```
 - Build ATF models with all the available distributions
 - Compare the models
 - Visualize all the curves: one plot for all
@@ -39,7 +39,7 @@ comparisons)
 - Explore CLV within different segments.
 
 ``` diff
-! 3. Report
++ 3. Report
 ```
 #### Write a short report (1-2 paragraphs) about your findings. The goal is to understand the factors affecting
 the churn risk.
