@@ -21,7 +21,7 @@
 - custcat: customer category
 - churn: churned (Yes/No)
 
-## 1. <span style="color:blue;">Parametric Models</span>
+## <font color="blue">1. Parametric Models</font>
 
 - Build ATF models with all the available distributions
 - Compare the models
