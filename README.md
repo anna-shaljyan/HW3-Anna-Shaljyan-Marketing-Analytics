@@ -1,6 +1,6 @@
 ## HW3-Anna-Shaljyan-Marketing-Analytics | Survival Analysis (50 points)
- Instructor: Karen Hovhannisyan
- Student: Anna Shaljyan
+ - Instructor: Karen Hovhannisyan
+ - Student: Anna Shaljyan
 
 ### To do list 
 
@@ -21,7 +21,8 @@
 - custcat: customer category
 - churn: churned (Yes/No)
 
-## 1. Parametric Models
+## 1. <span style="color:blue;">Parametric Models</span>
+
 - Build ATF models with all the available distributions
 - Compare the models
 - Visualize all the curves: one plot for all
@@ -30,11 +31,13 @@ comparisons)
 - Keep significant features
 - Keep the final model
 
-## 2. CLV
+## 2. <span style="color:red;">CLV</span>
+
 - Calculate CLV per customer based on the final model; you can use the same logic provided in the slides.
 - Explore CLV within different segments.
 
-## 3. Report
+## 3. <span style="color:orange;">Report</span>
+
 #### Write a short report (1-2 paragraphs) about your findings. The goal is to understand the factors affecting
 the churn risk.
 -  Interpret coefficients
