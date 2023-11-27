@@ -41,8 +41,7 @@ comparisons)
 ``` diff
 + 3. Report
 ```
-#### Write a short report (1-2 paragraphs) about your findings. The goal is to understand the factors affecting
-the churn risk.
+#### Write a short report (1-2 paragraphs) about your findings. The goal is to understand the factors affecting the churn risk.
 -  Interpret coefficients
 - Try to find the most valuable segments: describe the definition of being valuable according to you
 - Assuming the data represents the population, how much would be your annual retention budget? (hint,
